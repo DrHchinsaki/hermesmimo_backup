@@ -1,8 +1,8 @@
 # Hermes Agent Backup
 
 ## Latest Backup
-- **Date:** 2026-07-28 06:31:26
-- **File:** hermes_backup_20260728.tar.gz
+- **Date:** 2026-08-01 06:30:44
+- **File:** hermes_backup_20260801.tar.gz
 
 ## Contents
 - Memory (MEMORY.md)
@@ -15,6 +15,6 @@
 
 ## How to Restore
 ```bash
-tar -xzf hermes_backup_20260728.tar.gz
+tar -xzf hermes_backup_20260801.tar.gz
 # Copy files back to ~/.hermes/
 ```
